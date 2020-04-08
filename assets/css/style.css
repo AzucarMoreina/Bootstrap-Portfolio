@@ -125,6 +125,7 @@ h3, h2 {
 }
 
 .main-section {
+  align-content: center;
   float: left;
   width: 100%;
   max-width: 960px;
