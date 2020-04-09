@@ -20,8 +20,8 @@ body {
 }
 
 .carousel-inner > .item {
-  height: 400px;
-  max-width: 960px;
+  width: 100%;
+  max-width: 800px;
 }
 
 h1,
