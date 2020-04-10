@@ -19,11 +19,6 @@ body {
   clear: both;
 }
 
-.carousel-inner > .item {
-  width: 100%;
-  max-width: 800px;
-}
-
 h1,
 h2,
 h3,
