@@ -19,6 +19,13 @@ body {
   clear: both;
 }
 
+#carouselExampleControls {
+  width: 960px;
+  height: 600px;
+  max-width: 960px;
+
+}
+
 h1,
 h2,
 h3,
